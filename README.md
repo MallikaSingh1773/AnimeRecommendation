@@ -12,7 +12,7 @@ This project uses CSV files that are not stored in the GitHub repository due to 
 
 ### Steps to Set Up the Dataset
 1. **Download the Dataset:**
-   - Click on this link: [Anime Dataset](https://drive.google.com/file/d/1vZs0TDthO0qSKblMyAFYYhAw0AOZp1_2/view?usp=sharing)
+   - Click on this link: [Anime Dataset](https://drive.google.com/drive/folders/1GDX73DpWvgKB1mZowwILDOP94xRrC8ZB?usp=sharing)
    - Download the CSV files to your local machine.
 
 2. **Move the Files:**
