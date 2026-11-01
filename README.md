@@ -4,7 +4,6 @@ This is an Anime Recommendation System that uses both **Collaborative Filtering*
 
 ## Features
 - **Collaborative Filtering**: Recommends anime based on user interactions.
-- **Content-Based Filtering**: Suggests anime based on similarity in features like genre, description, etc.
 - **Interactive UI with Streamlit**: Users can choose the recommendation type and get instant results.
 
 ## Dataset Setup
